@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.FloatingActionButton xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/FloatingButton"
+    android:layout_margin="1dp"
+    android:src="@drawable/floatingicon"
+    app:background="@android:color/transparent"
+    app:fabSize="mini"
+    app:borderWidth="0dp" >
+
+</android.support.design.widget.FloatingActionButton>
